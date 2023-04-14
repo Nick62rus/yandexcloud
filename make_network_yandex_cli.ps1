@@ -1,4 +1,4 @@
-rem Создание сети
+# Создание сети
 yc vpc network create `
   --name my-yc-network `
   --labels my-label=my-value `
